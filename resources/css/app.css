@@ -1,0 +1,58 @@
+
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.button{
+
+    @apply bg-transparent rounded-full  px-4 py-1  text-[#121212] border border-black
+}
+
+
+.btn{
+
+    @apply w-full px-2 py-2 rounded border border-white font-medium text-white hover:fill-white text-center flex items-center justify-center gap-2  hover:bg-black
+}
+
+.btn3{
+
+    @apply 
+    mt-4  hover:text-white hover:bg-black   text-black border border-black font-bold py-1 px-2 rounded
+    
+}
+
+.bt4{
+
+    @apply w-full px-2 py-2 rounded border border-white font-medium text-black hover:text-white hover:fill-white text-center flex items-center justify-center gap-2  hover:bg-black
+
+}
+
+.inpt{
+
+    @apply
+    rounded-sm border border-gray-500 bg-transparent text-black hover:ring-2 outline-none ring-gray-600 px-3
+  }
+  
+
+  .fc{
+
+    @apply
+    flex flex-col
+  }
+
+
+  .heading{
+
+
+    @apply
+    font-bold text-2xl font-montserrat
+  }
+
+  .thfont{
+
+    @apply
+    tracking-wider uppercase
+  }
