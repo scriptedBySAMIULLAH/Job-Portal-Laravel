@@ -4,7 +4,7 @@ This job portal connects job seekers, especially recent graduates, with employer
 
 
 ## Guidelines:
-- **Login as company**: abbasi151@gmail.com / 12345
+- **Login as company**: ass@gmail.com / 12345
 - **Login as jobseeker**: Tom@gmail.com / 1234
 - **Login as admin**: Nansy123@gmail.com / 123
 
